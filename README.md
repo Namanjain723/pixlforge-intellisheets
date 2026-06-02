@@ -170,4 +170,4 @@ white_label_mode = True
 **Proprietary — © 2026 PixlForge Studio. All rights reserved.** Not open source.
 See [LICENSE](LICENSE). For a demo, deployment, or commercial licensing:
 
-📬 **pixlforge.studio03@gmail.com** · Built by **PixlForge Studio**
+📬 **pixlforge.studio03@gmail.com** · Built by **Naman Jain**
