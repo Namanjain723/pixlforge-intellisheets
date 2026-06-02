@@ -1,0 +1,6 @@
+# Public showcase repo — keep it clean.
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
