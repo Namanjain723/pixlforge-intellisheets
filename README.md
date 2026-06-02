@@ -50,9 +50,13 @@ Everything runs on the machine you start it on. **Your data never leaves your co
 
 ## 🖥️ Inside the app
 
-The dashboard, forecast and **interactive 3D** visuals above are produced **live by the app**
-from the sample data. To add UI walkthrough screenshots here too, drop PNGs into
-`assets/screenshots/` — see [`assets/screenshots/HOW_TO_ADD.md`](assets/screenshots/HOW_TO_ADD.md).
+| | |
+|---|---|
+| **Upload & Profile** — quality score, industry & summary<br>![Upload & Profile](assets/screenshots/01_upload_profile.png) | **Column Intelligence** — types, stats, missing %<br>![Column Details](assets/screenshots/02_column_details.png) |
+| **Visualize** — auto 2D dashboard<br>![Visualize](assets/screenshots/03_visualize.png) | **3D Explorer** — rotate & zoom to find clusters<br>![3D Explorer](assets/screenshots/04_3d_explorer.png) |
+| **Compare Files** — month-over-month comparison<br>![Compare](assets/screenshots/05_compare.png) | **AI Analyst** — chat with your data<br>![AI Analyst](assets/screenshots/06_ai_analyst.png) |
+| **Forecast** — 90d / 6mo / 1yr horizons<br>![Forecast](assets/screenshots/07_forecast.png) | **Benchmark** — vs industry margins<br>![Benchmark](assets/screenshots/08_benchmark.png) |
+| **Export Center** — branded PDF report<br>![Export](assets/screenshots/09_export_pdf.png) | **AI Analyst — API key setup**<br>![API key](assets/screenshots/10_api_key.png) |
 
 ---
 
