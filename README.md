@@ -17,7 +17,7 @@
 > **🔒 Proprietary software — © 2026 PixlForge Studio. All rights reserved.**
 > This is a **showcase** repository. The full source code is private and provided only
 > under licence. You may **view** these materials; you may **not** copy, reuse, or
-> reproduce them. See [LICENSE](LICENSE) · 📬 **pixlforge.studio03@gmail.com**
+> reproduce them. See [LICENSE](LICENSE) · 📬 **info@pixlforgestudio.in**
 
 ---
 
@@ -166,6 +166,6 @@ white_label_mode = True
 **Proprietary — © 2026 PixlForge Studio. All rights reserved.** Not open source.
 See [LICENSE](LICENSE).
 
-> 💼 **Available for commercial licensing — contact pixlforge.studio03@gmail.com for pricing.**
+> 💼 **Available for commercial licensing — contact info@pixlforgestudio.in for pricing.**
 
-📬 **pixlforge.studio03@gmail.com** · Built by **Naman Jain**
+📬 **info@pixlforgestudio.in** · Built by **Naman Jain**
