@@ -168,4 +168,4 @@ See [LICENSE](LICENSE).
 
 > 💼 **Available for commercial licensing — contact info@pixlforgestudio.in for pricing.**
 
-📬 **info@pixlforgestudio.in** · Built by **Naman Jain**
+📬 **info@pixlforgestudio.in** · 📮 **namancric18@gmail.com** · Built by **Naman Jain**
