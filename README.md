@@ -4,7 +4,7 @@
 
 # ⚡ PixlForge IntelliSheets AI
 
-### The Agentic Data Studio — turn messy spreadsheets into clean data, dashboards, forecasts & AI answers, 100% on your own machine.
+### The Agentic Data Studio - turn messy spreadsheets into clean data, dashboards, forecasts & AI answers, 100% on your own machine.
 
 ![License](https://img.shields.io/badge/license-Proprietary-7C6CFF)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-2DD4BF)
@@ -14,7 +14,7 @@
 
 </div>
 
-> **🔒 Proprietary software — © 2026 PixlForge Studio. All rights reserved.**
+> **🔒 Proprietary software - © 2026 PixlForge Studio. All rights reserved.**
 > This is a **showcase** repository. The full source code is private and provided only
 > under licence. You may **view** these materials; you may **not** copy, reuse, or
 > reproduce them. See [LICENSE](LICENSE) · 📬 **info@pixlforgestudio.in**
@@ -27,7 +27,7 @@ A premium, **self-hosted** data studio for accountants, finance teams and analys
 Drop in a messy spreadsheet and in seconds it **cleans** the data, **profiles** every
 column, scores **quality**, builds an interactive **dashboard** (including 3D),
 **forecasts** trends, **benchmarks** you against your industry, and lets you **talk to
-your data in plain English** with your own AI key — then exports a **branded PDF**.
+your data in plain English** with your own AI key - then exports a **branded PDF**.
 
 Everything runs on the machine you start it on. **Your data never leaves your computer.**
 
@@ -35,13 +35,13 @@ Everything runs on the machine you start it on. **Your data never leaves your co
 
 ## 📸 See it in action
 
-### Auto Dashboard — built the instant your file lands
+### Auto Dashboard - built the instant your file lands
 ![Auto dashboard](assets/01_dashboard.png)
 
-### Predictive Forecast — 90-day / 6-month / 1-year horizons with confidence bands
+### Predictive Forecast - 90-day / 6-month / 1-year horizons with confidence bands
 ![Forecast](assets/02_forecast.png)
 
-### 3D Explorer — three measures at once, rotate & zoom to find clusters and outliers
+### 3D Explorer - three measures at once, rotate & zoom to find clusters and outliers
 ![3D explorer](assets/03_3d.png)
 
 > *Visuals above are rendered from the included sample data.*
@@ -52,11 +52,11 @@ Everything runs on the machine you start it on. **Your data never leaves your co
 
 | | |
 |---|---|
-| **Upload & Profile** — quality score, industry & summary<br>![Upload & Profile](assets/screenshots/01_upload_profile.png) | **Column Intelligence** — types, stats, missing %<br>![Column Details](assets/screenshots/02_column_details.png) |
-| **Visualize** — auto 2D dashboard<br>![Visualize](assets/screenshots/03_visualize.png) | **3D Explorer** — rotate & zoom to find clusters<br>![3D Explorer](assets/screenshots/04_3d_explorer.png) |
-| **Compare Files** — month-over-month comparison<br>![Compare](assets/screenshots/05_compare.png) | **AI Analyst** — chat with your data<br>![AI Analyst](assets/screenshots/06_ai_analyst.png) |
-| **Forecast** — 90d / 6mo / 1yr horizons<br>![Forecast](assets/screenshots/07_forecast.png) | **Benchmark** — vs industry margins<br>![Benchmark](assets/screenshots/08_benchmark.png) |
-| **Export Center** — branded PDF report<br>![Export](assets/screenshots/09_export_pdf.png) | **AI Analyst — API key setup**<br>![API key](assets/screenshots/10_api_key.png) |
+| **Upload & Profile** - quality score, industry & summary<br>![Upload & Profile](assets/screenshots/01_upload_profile.png) | **Column Intelligence** - types, stats, missing %<br>![Column Details](assets/screenshots/02_column_details.png) |
+| **Visualize** - auto 2D dashboard<br>![Visualize](assets/screenshots/03_visualize.png) | **3D Explorer** - rotate & zoom to find clusters<br>![3D Explorer](assets/screenshots/04_3d_explorer.png) |
+| **Compare Files** - month-over-month comparison<br>![Compare](assets/screenshots/05_compare.png) | **AI Analyst** - chat with your data<br>![AI Analyst](assets/screenshots/06_ai_analyst.png) |
+| **Forecast** - 90d / 6mo / 1yr horizons<br>![Forecast](assets/screenshots/07_forecast.png) | **Benchmark** - vs industry margins<br>![Benchmark](assets/screenshots/08_benchmark.png) |
+| **Export Center** - branded PDF report<br>![Export](assets/screenshots/09_export_pdf.png) | **AI Analyst - API key setup**<br>![API key](assets/screenshots/10_api_key.png) |
 
 ---
 
@@ -67,8 +67,8 @@ Everything runs on the machine you start it on. **Your data never leaves your co
 | 📤 **Upload & Profile** | CSV, Excel (multi-sheet), JSON, TSV, Parquet, and **Tally Prime XML**. Up to **10 files at once**, each cleaned & cached independently with instant active-file switching. Quality score + industry auto-detect + plain-English summary. |
 | 🔬 **Column Intelligence** | Per-column type, stats, missing %, with manual type overrides. |
 | 📊 **Visualize** | Auto 2D dashboard **+ a 🧊 3D Explorer** (Scatter / Bubble / Surface / Line) with a plain-English "how to read it". Zoom · pan · rotate · export on every chart. |
-| 🆚 **Compare Files** | Month-over-month comparison that **reuses your loaded files** — metric, aggregation, breakdown & chart type. |
-| 🤖 **AI Analyst** | Bring your own Claude key and **chat with your data**. Returns the reasoning, the exact code it ran, and a chart/table/answer — all in a **sandboxed** runtime. |
+| 🆚 **Compare Files** | Month-over-month comparison that **reuses your loaded files** - metric, aggregation, breakdown & chart type. |
+| 🤖 **AI Analyst** | Bring your own Claude key and **chat with your data**. Returns the reasoning, the exact code it ran, and a chart/table/answer - all in a **sandboxed** runtime. |
 | 📈 **Forecast** | Linear-regression trend, moving averages, confidence bands, selectable **90-day / 6-month / 1-year** horizon. |
 | 🎯 **Benchmark** | Your gross margin vs the industry average and top performers, with a written verdict. |
 | 📥 **Export Center** | Cleaned CSV / Excel / JSON + a **branded PDF executive report** (optional password). |
@@ -94,7 +94,7 @@ Everything runs on the machine you start it on. **Your data never leaves your co
 ```
 
 **Without an AI key:** cleaning, profiling, charts, comparison, forecasting,
-benchmarking and PDF export all work — fully local.
+benchmarking and PDF export all work - fully local.
 **With your AI key:** the conversational analyst unlocks.
 
 ---
@@ -136,9 +136,9 @@ charts incl. 3D) · **scikit-learn** (forecasting) · **reportlab** + **matplotl
 
 ## 🔐 Privacy & safety
 
-- ✅ Processed **in memory on your own machine** — nothing is uploaded to a server.
+- ✅ Processed **in memory on your own machine** - nothing is uploaded to a server.
 - ✅ Nothing written to a database; the session clears when you close the tab.
-- ✅ The **only** optional outbound call is to Anthropic's API — and only if *you* add your own key (kept in session, never written to disk).
+- ✅ The **only** optional outbound call is to Anthropic's API - and only if *you* add your own key (kept in session, never written to disk).
 - ✅ Model-generated code runs in a **restricted sandbox** (no file, network, or import access).
 - ✅ Designed to align with **GDPR, CCPA & India's DPDP Act 2023** principles.
 
@@ -147,8 +147,8 @@ charts incl. 3D) · **scikit-learn** (forecasting) · **reportlab** + **matplotl
 ## 🏷️ White-label ready
 
 Every brand-facing string, colour and logo lives in **one file** (`branding.py`). Flip
-`white_label_mode = True`, set the client's name / email / logo, and the entire app —
-header, footer, PDF cover & footer, download filenames — re-brands instantly:
+`white_label_mode = True`, set the client's name / email / logo, and the entire app -
+header, footer, PDF cover & footer, download filenames - re-brands instantly:
 
 ```python
 app_name         = "Acme Insights"
@@ -163,9 +163,9 @@ white_label_mode = True
 
 ## 📜 License & contact
 
-**Proprietary — © 2026 PixlForge Studio. All rights reserved.** Not open source.
+**Proprietary - © 2026 PixlForge Studio. All rights reserved.** Not open source.
 See [LICENSE](LICENSE).
 
-> 💼 **Available for commercial licensing — contact info@pixlforgestudio.in for pricing.**
+> 💼 **Available for commercial licensing - contact info@pixlforgestudio.in for pricing.**
 
 📬 **info@pixlforgestudio.in** · 📮 **namancric18@gmail.com** · Built by **Naman Jain**
