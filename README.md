@@ -16,7 +16,7 @@
 
 > **🔒 Proprietary software - © 2026 PixlForge Studio. All rights reserved.**
 > This is a **showcase** repository. The full source code is private and provided only
-> under licence. You may **view** these materials; you may **not** copy, reuse, or
+> under license. You may **view** these materials; you may **not** copy, reuse, or
 > reproduce them. See [LICENSE](LICENSE) · 📬 **info@pixlforgestudio.in**
 
 ---
@@ -146,7 +146,7 @@ charts incl. 3D) · **scikit-learn** (forecasting) · **reportlab** + **matplotl
 
 ## 🏷️ White-label ready
 
-Every brand-facing string, colour and logo lives in **one file** (`branding.py`). Flip
+Every brand-facing string, color and logo lives in **one file** (`branding.py`). Flip
 `white_label_mode = True`, set the client's name / email / logo, and the entire app -
 header, footer, PDF cover & footer, download filenames - re-brands instantly:
 
